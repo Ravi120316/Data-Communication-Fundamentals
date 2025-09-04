@@ -1,0 +1,41 @@
+# Introduction to Data Communication
+
+**Data Communication** refers to the process of exchanging data between two or more devices through a transmission medium (wired or wireless).  
+The data can be in the form of text, audio, video, images, or files.  
+
+The primary goal of data communication is to deliver data:
+- To the correct destination
+- In the correct format
+- At the correct time
+
+---
+
+## Components of Data Communication
+
+1. **Sender (Source)**  
+   - The device that sends the data (e.g., computer, mobile).  
+
+2. **Receiver (Destination)**  
+   - The device that receives the data.  
+
+3. **Message (Data)**  
+   - The actual information to be communicated.  
+
+4. **Medium (Transmission Channel)**  
+   - The physical or wireless path through which data travels (e.g., cables, fiber optics, radio waves).  
+
+5. **Protocol**  
+   - A set of rules that governs communication between devices (e.g., TCP/IP).  
+
+---
+
+## Importance of Data Communication
+
+- Forms the foundation of computer networks.  
+- Enables resource sharing, global connectivity, and instant communication.  
+- Essential for applications like Internet browsing, banking, social media, and business systems.  
+
+---
+
+## Conclusion
+Without data communication, **computer networks would not exist**, making it the backbone of all modern communication systems.
